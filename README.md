@@ -18,5 +18,18 @@ Gráfico Confirmados x Recuperados.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img src=https://i.imgur.com/kVicKYN.png>
 Qr Code.
