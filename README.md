@@ -9,5 +9,14 @@ Feito utilizando a api covid 19 e quickchart.
 Gráfico Confirmados x Recuperados.
 
 
-<img src=![image](https://user-images.githubusercontent.com/82526635/124366745-463ae700-dc28-11eb-9a5c-165da5446710.png)>
+
+
+
+
+
+
+
+
+
+<img src=https://i.imgur.com/kVicKYN.png>
 Qr Code.
